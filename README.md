@@ -1,5 +1,5 @@
 # RFMmodeling
-Build a RFM (Recency Frequency Monetary) model for Retail Customers.
+Build a RFM (Recency Frequency Monetary) model for Retail Customers
 
 * Recency means the number of days since a customer made the last purchase. 
 * Frequency is the number of purchase in a given period. It could be 3 months, 6 months or 1 year. Monetary is the total amount of money a customer spent in that given period. 
@@ -13,7 +13,7 @@ Build a RFM (Recency Frequency Monetary) model for Retail Customers.
 
 Dataset Description
 
-* This is a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
+* This is a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail. 
 * InvoiceNo: Invoice number. Nominal, a 6-digit integral number uniquely assigned to each transaction. If this code starts with letter 'c', it indicates a cancellation. 
 * StockCode: Product (item) code. Nominal, a 5-digit integral number uniquely assigned to each distinct product. 
 * Description: Product (item) name. Nominal. 
